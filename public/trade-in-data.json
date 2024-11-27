@@ -1,0 +1,534 @@
+{
+    "success": true,
+    "count": 24,
+    "data": [
+        {
+            "po": "2312963189",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2023-12-25T08:04:38.699Z",
+            "updated_at": "2023-12-25T08:07:51.422Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S21 Ultra",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24PY173306",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-01-06T06:18:28.908Z",
+            "updated_at": "2024-01-06T07:47:04.281Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24HY534155",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-01-06T09:36:17.587Z",
+            "updated_at": "2024-01-06T09:38:51.272Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24TY632863",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-01-06T09:53:05.742Z",
+            "updated_at": "2024-01-06T09:54:25.973Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24WX119655",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-01T08:07:55.151Z",
+            "updated_at": "2024-02-01T09:18:57.659Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24FX871214",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-01T09:33:21.785Z",
+            "updated_at": "2024-02-01T09:52:59.343Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24NX614980",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-02T03:23:48.960Z",
+            "updated_at": "2024-02-02T03:34:02.069Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24YX871222",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-02T03:36:26.261Z",
+            "updated_at": "2024-02-02T03:40:14.309Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24EX997261",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-02T07:12:16.130Z",
+            "updated_at": "2024-02-02T07:14:50.540Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24NX506974",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-02T11:30:54.533Z",
+            "updated_at": "2024-02-02T11:32:40.238Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "TH24MX660123",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-02-02T15:22:19.371Z",
+            "updated_at": "2024-02-02T15:24:12.010Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S23 Plus",
+                "capacity": "256GB"
+            }
+        },
+        {
+            "po": "10000",
+            "status": "failed",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-07-01T06:51:18.395Z",
+            "updated_at": "2024-07-01T06:51:18.395Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TME TRUE 2023",
+                "id": 4191
+            },
+            "device": {
+                "brand": "Oppo",
+                "model": "Reno 4 Z 5G",
+                "capacity": "128GB"
+            }
+        },
+        {
+            "po": "TH24TM607964",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-02T09:32:59.746Z",
+            "updated_at": "2024-09-02T09:57:29.191Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24CM654423",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-09T07:58:39.871Z",
+            "updated_at": "2024-09-09T10:38:11.057Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "True Shop Seacon Square",
+                "id": 1740
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24MM674059",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-09T11:36:45.217Z",
+            "updated_at": "2024-09-09T12:11:20.943Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24YM052342",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-12T09:50:12.085Z",
+            "updated_at": "2024-09-12T09:52:29.518Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Samsung",
+                "model": "S9 Plus",
+                "capacity": "128GB"
+            }
+        },
+        {
+            "po": "TH24HM016369",
+            "status": "completed",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-13T08:36:45.479Z",
+            "updated_at": "2024-09-16T10:52:47.230Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24AM666487",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-09-17T17:08:28.093Z",
+            "updated_at": "2024-09-17T17:10:14.585Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 13 Pro",
+                "capacity": "128GB"
+            }
+        },
+        {
+            "po": "TH24QK722199",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-10-08T11:03:03.989Z",
+            "updated_at": "2024-10-08T11:06:19.630Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24HK481535",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-10-31T11:41:33.052Z",
+            "updated_at": "2024-10-31T12:09:29.572Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24FH231358",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-11-05T12:26:17.310Z",
+            "updated_at": "2024-11-05T12:27:44.197Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24QH973693",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-11-05T12:45:33.680Z",
+            "updated_at": "2024-11-05T12:56:44.410Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24CH581540",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-11-06T07:22:05.037Z",
+            "updated_at": "2024-11-06T07:30:54.684Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        },
+        {
+            "po": "TH24NH314902",
+            "status": "open",
+            "company_id": 233,
+            "staff_phone_number": "0868270027",
+            "created_at": "2024-11-06T07:33:48.394Z",
+            "updated_at": "2024-11-06T07:35:08.697Z",
+            "company": {
+                "name": "TRUE DISTRIBUTION & SALES CO.,LTD.",
+                "id": 233,
+                "payment_method": "weekly"
+            },
+            "branch": {
+                "name": "TRUE Test branch",
+                "id": 1682
+            },
+            "device": {
+                "brand": "Apple",
+                "model": "iPhone 12 Pro",
+                "capacity": "512GB"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+.trade-in-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.trade-card {
+  padding: 16px;
+  font-size: 16px;
+}
+
+.trade-item {
+  margin-bottom: 8px;
+}
+/* canvas { margin: auto} */
